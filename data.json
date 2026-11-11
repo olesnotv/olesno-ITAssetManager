@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "user": "Enzo",
+    "category": "laptop",
+    "brand": "brand",
+    "model": "model",
+    "serialNumber": "SN",
+    "dateOfPurchase": "01/10/21",
+    "status": "available"
+}
